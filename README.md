@@ -24,12 +24,13 @@ The game constantly checks for the following winning patterns for **each move**:
 
 1. **Horizontal Win**:
    - Six consecutive pieces in the same row:  
-
+     
 2. **Vertical Win**:
    - Six consecutive pieces in the same column
 
 3. **Positive Diagonal Win** (bottom-left to top-right):
-   
+
+
 4. **Negative Diagonal Win** (top-left to bottom-right):
    
 
@@ -59,65 +60,39 @@ Once any of these patterns are satisfied, the game displays a winning message an
 - 👨‍🏫 **Educational**: Great for learning game development, AI, algorithms, and Pygame
 - 🖼️ **Interactive**: GUI-based and beginner-friendly
 
-
-
-## 👨‍💻 Author
-Developed by: Ahmed Amr 
-
-## 💬 Feedback
-Found a bug? Have a suggestion?
-Feel free to open an issue or a pull request.
-
-## Enjoy the game! 🎉
-
 ---
+
+## 🛠️ How to Run
 
 ### Requirements
 
-- Python 3.x  
-- Python IDE  
-- Pygame  
-- NumPy  
+- Python 3.x
+- python IDE
+- Pygame
+- NumPy
+
+
+## 🔔 Make sure both connect6.py and class.py are in the same folder.
+
+## 🧱 Project Structure
+
+connect6_project/
+
+├── connect6.py         # Main game loop and logic
+├── class.py            # Game classes: Board, AI, Game
+├── README.md           # This documentation
+📸 Screenshots
 
 ---
 
-### Install Dependencies
+## 👨‍💻 Author
+- Developed by: Ahmed Amr 
 
-Install the required packages:
+---
 
-```bash
-pip install pygame numpy
-Run the Game
-To start the game, run:
+## 💬 Feedback
+- Found a bug? Have a suggestion?
+- Feel free to open an issue or a pull request.
+---
 
-python connect6.py
-⚠️ Make sure both connect6.py and class.py are in the same folder.
-
-## Enjoy the game!
-
-connect6_project/
-├── connect6.py         # Main game loop and logic
-├── classes.py          # Game classes: Board, AI, Game
-├── README.md           # This documentation
-└── Board size          # choose your prefered board szie 
-📸 gameplay pic         # Ai winning :( 
-
-<<<<<<< HEAD
-
-
-![Main Menu](screenShots/BoardSize.png)
-![Gameplay](screenShots/GamePlay.png)
-![Victory](screenShots/WinningGame.png)
-
-👨‍💻 Author
-Developed by: Ahmed Amr 
-
-
-💬 Feedback
-Found a bug? Have a suggestion?
-Feel free to open an issue or a pull request.
-
-Enjoy the game! 🎉
-ahmed
-=======
->>>>>>> a6fb212e4c7934142d8241b1b6c040235a8b2ade
+#### Enjoy the game! 🎉
