@@ -61,25 +61,31 @@ Once any of these patterns are satisfied, the game displays a winning message an
 
 ---
 
-## 🛠️ How to Run
-
 ### Requirements
 
-- Python 3.x
-- python IDE
-- Pygame
-- NumPy
+- Python 3.x  
+- Python IDE  
+- Pygame  
+- NumPy  
+
+---
 
 ### Install Dependencies
+
+Install the required packages:
 
 ```bash
 pip install pygame numpy
 Run the Game
+To start the game, run:
 
+bash
+Copy
+Edit
 python connect6.py
-🔔 Make sure both connect6.py and class.py are in the same folder.
+⚠️ Make sure both connect6.py and class.py are in the same folder.
 
-🧱 Project Structure
+📂 Project Structure
 
 connect6_project/
 ├── connect6.py         # Main game loop and logic
@@ -87,7 +93,7 @@ connect6_project/
 ├── README.md           # This documentation
 └── Board size          # choose your prefered board szie 
 📸 gameplay pic         # Ai winning :( 
-Add gameplay images to the screenshots/ folder and reference them here:
+
 
 
 ![Main Menu](screenShots/BoardSize.png)
