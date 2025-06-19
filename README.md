@@ -61,15 +61,14 @@ Once any of these patterns are satisfied, the game displays a winning message an
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Developed by: Ahmed Amr 
 
-
-💬 Feedback
+## 💬 Feedback
 Found a bug? Have a suggestion?
 Feel free to open an issue or a pull request.
 
-Enjoy the game! 🎉
+## Enjoy the game! 🎉
 
 ---
 
@@ -91,13 +90,10 @@ pip install pygame numpy
 Run the Game
 To start the game, run:
 
-bash
-Copy
-Edit
 python connect6.py
 ⚠️ Make sure both connect6.py and class.py are in the same folder.
 
-📂 Project Structure
+## Enjoy the game!
 
 connect6_project/
 ├── connect6.py         # Main game loop and logic
@@ -106,6 +102,7 @@ connect6_project/
 └── Board size          # choose your prefered board szie 
 📸 gameplay pic         # Ai winning :( 
 
+<<<<<<< HEAD
 
 
 ![Main Menu](screenShots/BoardSize.png)
@@ -122,3 +119,5 @@ Feel free to open an issue or a pull request.
 
 Enjoy the game! 🎉
 ahmed
+=======
+>>>>>>> a6fb212e4c7934142d8241b1b6c040235a8b2ade
