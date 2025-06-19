@@ -59,6 +59,18 @@ Once any of these patterns are satisfied, the game displays a winning message an
 - 👨‍🏫 **Educational**: Great for learning game development, AI, algorithms, and Pygame
 - 🖼️ **Interactive**: GUI-based and beginner-friendly
 
+
+
+👨‍💻 Author
+Developed by: Ahmed Amr 
+
+
+💬 Feedback
+Found a bug? Have a suggestion?
+Feel free to open an issue or a pull request.
+
+Enjoy the game! 🎉
+
 ---
 
 ### Requirements
