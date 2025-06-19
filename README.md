@@ -95,4 +95,4 @@ connect6_project/
 - Feel free to open an issue or a pull request.
 ---
 
-#### Enjoy the game! 🎉
+# Enjoy the game! 🎉
